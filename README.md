@@ -26,7 +26,7 @@ Edited the original data from Kaggle to include a new field called unique_id whi
 
 #### Calculation of Correlation Coefficients:
 I would need to use the following formula for the code where X would be the field phishing and Y would be the respective field I am finding.
-\[ Correlation = \frac{\sum (X - \bar{X}) \cdot (Y - \bar{Y})}{\sqrt{\sum (X - \bar{X})^2 \cdot \sum (Y - \bar{Y})^2}} \]
+\[Correlation = \frac{\sum (X - \bar{X}) \cdot (Y - \bar{Y})}{\sqrt{\sum (X - \bar{X})^2 \cdot \sum (Y - \bar{Y})^2}} \]
 
 #### SQL implementaion:
 ```sql
