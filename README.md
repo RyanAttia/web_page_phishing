@@ -124,7 +124,7 @@ FROM
 
 ### Statistical Analysis:
 Based on the statistical analysis it appears that the number of redirections has a very weak almost 0 indication as to whether a URL is phishing or not as after implementing the SQL code there was a correlation around -0.05 between the two fields.
-![Results images](assets/images/n_redirections.png)
+![Results images](assets/images/n_redirections_results.png)
 
 
 ## Analysis:
